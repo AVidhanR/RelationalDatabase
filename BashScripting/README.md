@@ -15,12 +15,12 @@ touch <filename>.sh
 - Visit my freeCodeCamp profile from [here](https://www.freecodecamp.org/AVidhanR)
 - Done by [AVidhanR](https://linkedin.com/AVidhanR)
 
-  > [!IMPORTANT]
-  > - `sh` full form is `shell`
-  > - `bash` full form is `bourne-again shell`
-  > - To run a `shell` file one use the `sh` or `bash` word in prefix or use the below traditional method (recommended),
-  >
-  > ```bash
-  > chmod +x <filename>.sh
-  > ./<filename>.sh
-  > ```
+> [!IMPORTANT]
+> - `sh` full form is `shell`
+> - `bash` full form is `bourne-again shell`
+> - To run a `shell` file one use the `sh` or `bash` word in prefix or use the below traditional method (recommended),
+>
+> ```bash
+> chmod +x <filename>.sh
+> ./<filename>.sh
+> ```
